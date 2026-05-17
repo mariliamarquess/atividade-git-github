@@ -27,3 +27,14 @@ Katherine Johnson, nascida em 26 de agosto de 1918, em White Sulphur Springs, fo
 - Em 1962, astronautas só se compremeteram com a missão Friendship 7 de Glenn após Katherine refazer os mesmos cálculos de uma calculadora eletrônica, usando as mesmas equações que haviam sido programadas no computador, mas manualmente, em sua calculadora mecânica de mesa.
 
 >"As meninas são capazes de fazer tudo o que os homens são capazes de fazer. Às vezes, elas têm mais imaginação do que os homens." - K.J.
+
+-----------------------
+
+## O que aprendi sobre Git e GitHub
+
+### Comandos do Git
+- **git init**: inicializa o git no repositório local;
+- **git push**: envia os commits do repositório local para o repositório remoto;
+- **git commit**: salva as alterações no histórico do repositório com uma mensagem descritiva;
+- **git clone**: copia um repositório remoto para sua máquina;
+- **git config --global user.name**: define o nome de usuário que será utilizado nos commits do Git.
