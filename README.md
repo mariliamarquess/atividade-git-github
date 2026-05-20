@@ -1,11 +1,18 @@
 # atividade-git-github
 
-## Katherine Johnson
+## Katherine Johnson :triangular_ruler: :telescope:
 
-### Biografia
+<p align="center">
+  <img src="img/katherine_img.png"
+    alt="Foto via [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Katherine_Johnson#/media/File:Katherine_johnson_john_glenn.png).">
+</p>
+
+### :newspaper: Biografia
 Katherine Johnson, nascida em 26 de agosto de 1918, em White Sulphur Springs, foi uma matemática extremamente importante, com contribuições fundamentais para a aeronáutica e a exploração espacial dos Estados Unidos, especialmente em aplicações da computação na NASA. Iniciou sua trajetória acadêmica aos 13 anos, frequentando o ensino médio no campus da **West Virginia State University**. Aos 18 anos, matriculou-se na própria universidade e rapidamente construiu um currículo impressionante em matemática. Em 1937, formou-se com as mais altas honras. Alguns anos depois, realizou a análise de trajetória da missão Freedom 7, o primeiro voo espacial tripulado dos Estados Unidos.
 
-### Principais conquistas
+[Fonte](https://www-nasa-gov.translate.goog/centers-and-facilities/langley/katherine-johnson-biography/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc).
+
+### :trophy: Principais conquistas
 - Em 1937, Katherine se formou com as mais altas honras na Universidade Estadual da Virgínia Ocidental;
 - Em junho de 1953, ela foi contratada pela NACA (atual NASA);
 - Em 1961,  realizou a análise de trajetória para a missão Freedom 7 de Alan Shepard, em maio de 1961 , o primeiro voo espacial tripulado dos Estados Unidos;
@@ -16,7 +23,7 @@ Katherine Johnson, nascida em 26 de agosto de 1918, em White Sulphur Springs, fo
 - Em 2015, o presidente Barack Obama concedeu-lhe a **Medalha Presidencial da Liberdade**, a mais alta honraria civil dos Estados Unidos;
 - Em 2019, recebeu a **Medalha de Ouro do Congresso** (Congressional Gold Medal), a condecoração civil mais alta concedida pelo legislativo dos Estados Unidos.
 
-### Curiosidades e Impactos
+### :eyes: Curiosidades e Impactos
 - Katherine foi escolhida a dedo como uma das três estudantes negras a integrar as escolas de pós-graduação da Virgínia Ocidental;
 - Teve como mentor o professor de matemática **W. W. Schieffelin Claytor**, o terceiro afro-americano a obter um doutorado em matemática;
 - Após a sua conclusão na graduação, ela começou a lecionar em uma escola pública para negros na Virgínia;
@@ -28,11 +35,16 @@ Katherine Johnson, nascida em 26 de agosto de 1918, em White Sulphur Springs, fo
 
 >"As meninas são capazes de fazer tudo o que os homens são capazes de fazer. Às vezes, elas têm mais imaginação do que os homens." - K.J.
 
+<p align="center">
+  <img src="img/katherine_giph.gif"
+    alt="Gif via [Giphy](https://giphy.com/gifs/astronaut-kennedy-space-center-heroes-legends-l0HlwMk0nMikTl5FS).">
+</p>
+
 -----------------------
 
-## O que aprendi sobre Git e GitHub
+## :octocat: O que aprendi sobre Git e GitHub
 
-### Comandos do Git
+### :computer: Comandos do Git
 - **git init**: inicializa o git no repositório local;
 - **git push**: envia os commits do repositório local para o repositório remoto;
 - **git commit**: salva as alterações no histórico do repositório com uma mensagem descritiva;
